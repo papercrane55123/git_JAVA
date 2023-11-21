@@ -20,19 +20,19 @@ package day01.dataType;
 public class DataType{
 	public static void main(String[] args) {
 		char ch = 'A';
-		
+
 		System.out.println(ch + ", ASCII code = " + (int)ch);
 		System.out.println('b');
 		System.out.println((int)'b');
 		
 		int num = 9;
-		int xNum = 0x9; // 16진수 : 0x숫자
+		int xNum = 0x9; // 16진수 : 0x숫자sa
 		int oNum = 011; // 0숫자 : 8진수
 		int bNum = 0B1110; // 0b숫자 : 2진수 (binary)
 		
-		System.out.println("2진수 : "+bNum);
+		System.out.println("22222진수 : "+bNum);  //////asdf
 		System.out.println("16진수 : "+xNum);
-		System.out.println("8진수 : "+oNum);
+		//System.out.println("8진수 : "+oNum);
 		System.out.println("10진수 : "+num);
 		
 		// 16진수는 0123456789abcdef임 
