@@ -30,7 +30,7 @@ public class DataType{
 		int oNum = 011; // 0숫자 : 8진수
 		int bNum = 0B1110; // 0b숫자 : 2진수 (binary)
 		
-		System.out.println("22222진수 : "+bNum);  //////asdfewqtrq
+		System.out.println("22222진수 : "+bNum);  //////수정
 		System.out.println("16진수 : "+xNum);
 		//System.out.println("8진수 : "+oNum);
 		System.out.println("10진수 : "+num);
